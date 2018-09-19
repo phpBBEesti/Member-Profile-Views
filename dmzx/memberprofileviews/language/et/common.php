@@ -1,5 +1,6 @@
 <?php
 /**
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * @package phpBB Extension - Member Profile Views
 * @copyright (c) 2015 dmzx - http://www.dmzx-web.net
@@ -37,6 +38,6 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'MEMBER_PROFILE_VIEW'				=> 'Member Profile Views Total',
-	'MEMBER_PROFILE_TEXT'				=> 'Last <strong>%d</strong> members that viewed your profile',
+	'MEMBER_PROFILE_VIEW'				=> 'Kasutaja profiili vaatamisi kokku',
+	'MEMBER_PROFILE_TEXT'				=> 'Viimati <strong>%d</strong> liikmed kes vaatasid teie profiili',
 ));
