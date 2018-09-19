@@ -1,5 +1,6 @@
 <?php
 /**
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * @package phpBB Extension - Member Profile Views
 * @copyright (c) 2015 dmzx - http://www.dmzx-web.net
@@ -37,6 +38,6 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'MEMBERPROFILEVIEWS_SETTING'				=> 'Set value for Member Profile Views',
-	'MEMBERPROFILEVIEWS_SETTING_EXPLAIN'		=> 'Value adjustable from 2 till 255 members. <br /><em>Default is 100</em>',
+	'MEMBERPROFILEVIEWS_SETTING'				=> 'Määrake liikmete profiili vaatamise väärtus',
+	'MEMBERPROFILEVIEWS_SETTING_EXPLAIN'		=> 'Väärtus on 2 kuni 255 liiget. <br /><em>Vaikimisi on 100</em>',
 ));
