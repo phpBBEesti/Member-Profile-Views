@@ -38,6 +38,6 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'MEMBER_PROFILE_VIEW'				=> 'Profiili vaadatud kokku',
+	'MEMBER_PROFILE_VIEW'				=> 'Profiili vaatamisi kokku',
 	'MEMBER_PROFILE_TEXT'				=> 'Viimased <strong>%d</strong> kasutajat, kes vaatasid teie profiili',
 ));
